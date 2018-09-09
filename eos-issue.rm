@@ -1,0 +1,12 @@
+#EOS Issue
+
+
+# sign
+
+You can use eosjs-ecc for signing easily.
+
+If you want to sign a hash 
+ecc.Signature.signHash(sha256hash, privateKey).toString()
+
+If you want to sign something that isnt a hash 
+ecc.sign(Buffer.from(someData, 'utf8'), privateKey)
