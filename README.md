@@ -6,7 +6,7 @@ Blockchain development awesome
 ## Development API
  
  ### Wrapper API Java
- Blockchain-dev-awesome
+ [EosApi](https://github.com/phantrdat/EosApi)
  
  ### Wrapper API .net
  ### Wrapper API javascript
